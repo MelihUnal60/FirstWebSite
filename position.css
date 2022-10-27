@@ -1,0 +1,29 @@
+#dis-kutu{
+    height: 3500px;
+    width: 500px;
+    border: 1px solid red;
+    margin: 0 auto;
+    
+}
+.ic-kutu{
+    background-color: brown;
+    color: aqua;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+/* #goreceli{
+    position: relative;
+    right: 100px; */
+    /* top: 375px; */
+
+/* #gercek{
+    position: absolute;
+    right: 0px;
+} */
+
+/* #fixed{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+} */
